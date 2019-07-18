@@ -1,0 +1,19 @@
+div .bar {
+  height: 64px;
+  width: 100%;
+  background: #4a90e2;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+div .bar #logo {
+  margin-left: 40px;
+  font-size: 32px;
+}
+
+div .bar #profile {
+  margin-right: 40px;
+  font-size: 15px;
+}
